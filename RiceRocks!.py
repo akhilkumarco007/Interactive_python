@@ -1,3 +1,7 @@
+'''
+The famous game Asteroids!!!
+'''
+
 # implementation of Spaceship - program template for RiceRocks
 import simplegui
 import math
